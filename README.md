@@ -1,6 +1,6 @@
 # Library Management System
 
-The Library Management System is a command-line application that allows users to manage the inventory of a bookstore. It uses SQLAlchemy ORM to interact with a SQLite database and Click library to create a user-friendly command-line interface.
+The Library Management System is a command-line application that allows users to manage the books in a library. It uses SQLAlchemy ORM to interact with a SQLite database and Click library to create a user-friendly command-line interface.
 
 ## Features
 
@@ -21,7 +21,7 @@ The Library Management System is a command-line application that allows users to
 
 1. Activate the virtual environment: `source env/bin/activate`
 2. Run the application: `python cli.py`
-3. Follow the prompts to manage the bookstore inventory
+3. Follow the prompts to manage the books in a library
 
 ## Contributing
 
